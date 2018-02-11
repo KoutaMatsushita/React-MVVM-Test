@@ -26,6 +26,7 @@ const style = {
 
             },
             createAt: {
+                "marginLeft": "8px",
                 "color": "dimgray",
                 "fontSize": "0.9em",
             },
